@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933319106457",
+    "project_id": "login-b1640",
+    "storage_bucket": "login-b1640.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933319106457:android:7532c36426ed9ea0233d08",
+        "android_client_info": {
+          "package_name": "com.example.firebse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933319106457-j4gqa8bhb5ga8ukl21pjp5jhtjcqehgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVZTn0DkkPB7nUwvpuxpfil149L-wfbXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933319106457-j4gqa8bhb5ga8ukl21pjp5jhtjcqehgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
